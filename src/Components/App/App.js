@@ -6,16 +6,19 @@ import SearchPanell from "../SearchPanell/SearchPanell";
 import "./App.css"
 function App() {
   const data=[{
+    id:1,
     name:"Harry Potter",
     views:12,
     favourite:false
   },
   {
+      id:2,
       name:"Lokki",
       views:124,
       favourite:true
   },
   {
+    id:3,
       name:"Daho",
       views:999,
       favourite:true
