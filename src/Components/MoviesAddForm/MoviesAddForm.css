@@ -1,0 +1,16 @@
+.movies-add{
+    padding: 1rem;
+    border-radius: 4px;
+    background-color: fcfaf5;
+    box-shadow: 1px 1px 30px  rgba(0, 0, 0, 0.15);
+    margin-top: 1rem;   
+}.new-post-label{
+    padding: 10px;
+    width: 450px;
+    border-radius: 4px;
+    background-color: fcfaf5;
+    box-shadow: 1px 1px 30px  rgba(0, 0, 0, 0.15);
+}
+.add-form{
+    justify-content: space-evenly;
+}
